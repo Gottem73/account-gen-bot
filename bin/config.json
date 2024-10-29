@@ -1,26 +1,27 @@
 {
-    "token": "YOUR_BOT_TOKEN",
-    "guild-id": "YOUR_GUILD_ID",
+    "token": "MTMwMDQ5NTg4MDA3OTgwMjM4MA.GgBACl.urTK2WLQVA8WmcCG62NTNqgIr74fvznSI3spzY",
+    "guild-id": "1290341981842837504",
     
     "gen-channels": [
-        1115386974413525055
+        1300476033195053246
     ],
     
     "roles": {
-        "free-role": "269539324931742842",
-        "premium-role": "269539324931742842",
-        "booster-role": "269539324931742842"
+        "free-role": "1290342335745622016",
+        "premium-role": "1300476497001447434",
+        "booster-role": "1300476631030169630"
     },
 
     "cooldowns": {
         "_comment": "these values are in minutes",
-        "normal": 5,
-        "booster": 3,
+        "normal": 1,
+        "booster": 1,
         "premium": 1
     },
 
     "admins": [
-        123456789012345678
+        1193449661097312274
+        1246716204329205912
     ],
 
     "messages": {
@@ -28,7 +29,7 @@
         "wrongchannel": ":thinking: ",
 
         "cookie-altmessage-switch": false,
-        "altsent": "Thank you for using AtluzkaGEN"
+        "altsent": "Thank you for using itachi gen"
     },
 
     "generate-settings": {
